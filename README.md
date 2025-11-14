@@ -26,16 +26,17 @@ Fun fact: I debug with snacks 🍪
 ### 🚀 My GitHub Universe  
 
 <p align="center">
-  <a href="[https://www.instagram.com/yourusername](https://www.instagram.com/dcf______/?hl=en)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <a href="[https://instagram.com/yourusername](https://www.instagram.com/dcf______/?hl=en)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/yourusername" target="_blank](https://www.linkedin.com/in/damithufonseka/)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="[https://www.behance.net/yourusername](https://www.behance.net/gallery/237616637/Portfolio)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40"/>
+  <a href="https://behance.net/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=Behance&logoColor=white" />
   </a>
 </p>
+
 
 ---
 

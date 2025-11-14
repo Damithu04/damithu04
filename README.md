@@ -25,14 +25,17 @@ Fun fact: I debug with snacks 🍪
 
 ### 🚀 My GitHub Universe  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damithu04&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damithu04&theme=radical&hide_border=true&background=0D1117" height="160px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithu04&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="160px"/>
-</div>
+<p align="center">
+  <a href="[https://www.instagram.com/yourusername](https://www.instagram.com/dcf______/?hl=en)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/yourusername" target="_blank](https://www.linkedin.com/in/damithufonseka/)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  <a href="[https://www.behance.net/yourusername](https://www.behance.net/gallery/237616637/Portfolio)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40"/>
+  </a>
+</p>
 
 ---
 

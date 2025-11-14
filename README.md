@@ -26,7 +26,7 @@ Fun fact: I debug with snacks 🍪
 ### 🚀 My GitHub Universe  
 
 <p align="center">
-  <a href="[https://instagram.com/yourusername](https://www.instagram.com/dcf______/?hl=en)" target="_blank">
+  <a href="https://www.instagram.com/dcf______/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">

@@ -32,7 +32,7 @@ Fun fact: I debug with snacks 🍪
   <a href="https://www.linkedin.com/in/damithufonseka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.behance.net/gallery/237616637/Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=Behance&logoColor=white" />
   </a>
 </p>

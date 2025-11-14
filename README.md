@@ -23,7 +23,7 @@ Fun fact: I debug with snacks 🍪
 
 ---
 
-### 🚀 My GitHub Universe  
+### 🚀 My Socials  
 
 <p align="center">
   <a href="https://www.instagram.com/dcf______/?hl=en" target="_blank">

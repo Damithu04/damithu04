@@ -16,15 +16,14 @@ Fun fact: I debug with snacks 🍪
 
 ### 📊 My GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damithu04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Damithu's GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=damithu04&theme=tokyonight&border_radius=10" alt="Damithu's GitHub Streak" width="48.5%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithu04&layout=compact&theme=tokyonight&border_radius=10" alt="Damithu's Top Languages" width="48.5%" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=damithu04&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=damithu04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damithu04&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 

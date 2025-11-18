@@ -43,6 +43,15 @@ Fun fact: I debug with snacks 🍪
 
 ---
 
+<details open>
+  <summary align="center"><h2> Profile Statistics </h2></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=damithu04&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
+  </div>
+</details>
+
+---
+
 🚀 My Socials
 <p align="center"> <a href="https://www.instagram.com/dcf______/?hl=en" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/damithufonseka/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /> </a> <a href="https://www.behance.net/gallery/237616637/Portfolio" target="_blank"> <img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=Behance&logoColor=white" /> </a> </p>
 ---
